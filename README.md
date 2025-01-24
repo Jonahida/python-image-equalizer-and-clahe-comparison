@@ -14,6 +14,20 @@ This image processing application allows users to load, process, and save images
 
 ---
 
+### Histogram Example
+
+This screenshot shows the **Original Histogram** of the image displayed in the left column.
+
+![Histogram Example](screenshot_1.png)
+
+### CLAHE Example
+
+This screenshot shows the processed image after applying **CLAHE**, displayed in the right column.
+
+![CLAHE Example](screenshot_2.png)
+
+---
+
 ## Requirements
 
 This application requires the following Python packages for proper functionality:
@@ -110,22 +124,6 @@ The application is organized into three main sections:
 3. **Right Column** (Processed Image & Histogram):
    - **Save Image** button to save the processed image.
    - Displays the **Processed Image** and its corresponding **Histogram**.
-
----
-
-## Screenshots
-
-### Histogram Example
-
-This screenshot shows the **Original Histogram** of the image displayed in the left column.
-
-![Histogram Example](screenshot_1.png)
-
-### CLAHE Example
-
-This screenshot shows the processed image after applying **CLAHE**, displayed in the right column.
-
-![CLAHE Example](screenshot_2.png)
 
 ---
 
